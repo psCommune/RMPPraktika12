@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">praktika11</string>
+    <string name="greeting_string">Приветствую!</string>
+    <string name="moving_button">Вперёд</string>
+    <string name="results_string">Результат выводится в Logcat и дублируется здесь</string>
+    <string name="add_task_button">Добавить задачу</string>
+    <string name="hint_heading_task">Название задачи</string>
+    <string name="hint_meaning_task">Задача</string>
+    <string name="hint_data_time_task">Дата выполнения</string>
+</resources>
